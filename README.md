@@ -2,6 +2,7 @@
 A Repository of automation scripts for Beijing Institute of Technology.
 
 # Script Description
+
 |Script name |Description|administrator authorization|
 |:--------   |:-----  | ---- :|
 |get_ipv6.bat | if your computer can get ipv6 address from DHCP server, try this script.| needed|
